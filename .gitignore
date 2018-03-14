@@ -3,10 +3,14 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+<<<<<<< HEAD
 
 /Assets/AssetStoreTools*
 /Assets/Plugins/GitHub.meta
 /Assets/Plugins/GitHub/
+=======
+/Assets/AssetStoreTools*
+>>>>>>> c40ac76c70c5fc2c8542c7e9158652effa8d337b
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -26,7 +30,10 @@ ExportedObj/
 *.svd
 *.pdb
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c40ac76c70c5fc2c8542c7e9158652effa8d337b
 # Unity3D generated meta files
 *.pidb.meta
 
@@ -35,4 +42,8 @@ sysinfo.txt
 
 # Builds
 *.apk
+<<<<<<< HEAD
 *.unitypackage
+=======
+*.unitypackage
+>>>>>>> c40ac76c70c5fc2c8542c7e9158652effa8d337b
