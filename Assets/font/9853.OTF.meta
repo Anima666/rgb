@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ae21585d8516c7647a6d3bfb5eb0f2ee
+timeCreated: 1497393259
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Snowstorm
+  fontNames:
+  - Snowstorm
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
